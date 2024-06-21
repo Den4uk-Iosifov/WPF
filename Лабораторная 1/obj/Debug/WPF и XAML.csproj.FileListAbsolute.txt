@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\bin\Debug\WPF и XAML.exe.config
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\bin\Debug\WPF и XAML.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\bin\Debug\WPF и XAML.pdb
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML_MarkupCompile.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML_MarkupCompile.lref
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML.g.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF_и_XAML.Properties.Resources.resources
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML.exe
+C:\Users\user\Desktop\Раб\avdeev21ис\WPF и XAML\obj\Debug\WPF и XAML.pdb
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\bin\Debug\WPF и XAML.exe.config
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\bin\Debug\WPF и XAML.exe
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\bin\Debug\WPF и XAML.pdb
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML.csproj.AssemblyReference.cache
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\MainWindow.g.cs
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\App.g.cs
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML_MarkupCompile.cache
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML_MarkupCompile.lref
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\MainWindow.baml
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML.g.resources
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF_и_XAML.Properties.Resources.resources
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML.csproj.GenerateResource.cache
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML.csproj.CoreCompileInputs.cache
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML.exe
+C:\Users\tankk\Desktop\Новая папка (4)\Лабораторная работа 1\obj\Debug\WPF и XAML.pdb
